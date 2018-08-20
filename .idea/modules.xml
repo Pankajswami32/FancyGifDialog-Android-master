@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FancyGifDialog-Android-master.iml" filepath="$PROJECT_DIR$/FancyGifDialog-Android-master.iml" />
+      <module fileurl="file://E:\FancyGifDialog-Android-master\FancyGifDialogLibrary.iml" filepath="E:\FancyGifDialog-Android-master\FancyGifDialogLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\FancyGifDialog-Android-master\app\app.iml" filepath="E:\FancyGifDialog-Android-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fancygifdialoglib/fancygifdialoglib.iml" filepath="$PROJECT_DIR$/fancygifdialoglib/fancygifdialoglib.iml" />
+      <module fileurl="file://E:\FancyGifDialog-Android-master\fancygifdialoglib\fancygifdialoglib.iml" filepath="E:\FancyGifDialog-Android-master\fancygifdialoglib\fancygifdialoglib.iml" />
+    </modules>
+  </component>
+</project>
